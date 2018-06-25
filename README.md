@@ -4,4 +4,4 @@
 
 ## Subtitulo
 
-![captura googleAnalytics01] (/images/googleAnalytics01.png)
+![Captura googleAnalytics01] (images/googleAnalytics01.png)
